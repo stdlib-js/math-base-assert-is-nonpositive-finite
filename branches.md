@@ -38,12 +38,12 @@ C -->|bundle| D[esm];
 C -->|bundle| E[deno];
 C -->|bundle| F[umd];
 
-click A href "https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/math/base/assert/is-nonpositive-finite"
-click B href "https://github.com/stdlib-js/math-base-assert-is-nonpositive-finite/tree/main"
-click C href "https://github.com/stdlib-js/math-base-assert-is-nonpositive-finite/tree/production"
-click D href "https://github.com/stdlib-js/math-base-assert-is-nonpositive-finite/tree/esm"
-click E href "https://github.com/stdlib-js/math-base-assert-is-nonpositive-finite/tree/deno"
-click F href "https://github.com/stdlib-js/math-base-assert-is-nonpositive-finite/tree/umd"
+%% click A href "https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/math/base/assert/is-nonpositive-finite"
+%% click B href "https://github.com/stdlib-js/math-base-assert-is-nonpositive-finite/tree/main"
+%% click C href "https://github.com/stdlib-js/math-base-assert-is-nonpositive-finite/tree/production"
+%% click D href "https://github.com/stdlib-js/math-base-assert-is-nonpositive-finite/tree/esm"
+%% click E href "https://github.com/stdlib-js/math-base-assert-is-nonpositive-finite/tree/deno"
+%% click F href "https://github.com/stdlib-js/math-base-assert-is-nonpositive-finite/tree/umd"
 ```
 
 [stdlib-url]: https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/math/base/assert/is-nonpositive-finite
