@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-12-01)
+## Unreleased (2024-12-17)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`32deb11`](https://github.com/stdlib-js/stdlib/commit/32deb11c6a2453748d8db9554b6bb3fdb73a077f) - **docs:** update related packages sections [(#3976)](https://github.com/stdlib-js/stdlib/pull/3976) _(by stdlib-bot)_
 -   [`5b4c5ca`](https://github.com/stdlib-js/stdlib/commit/5b4c5cadb3d2fed46829dbf32f217726658e46bb) - **bench:** resolve lint errors _(by Athan Reines)_
 -   [`2777e4b`](https://github.com/stdlib-js/stdlib/commit/2777e4be161869d09406e3b17947d24c64b47af2) - **bench:** resolve lint errors in benchmarks _(by Athan Reines)_
 
@@ -59,7 +60,7 @@ A total of 1 person contributed to this release. Thank you to this contributor:
 
 -   [`d04dcbd`](https://github.com/stdlib-js/stdlib/commit/d04dcbd6dc3b0bf4a89bd3947d317fa5ff15bb38) - **docs:** remove private annotations in C comments _(by Philipp Burckhardt)_
 -   [`d27da5d`](https://github.com/stdlib-js/stdlib/commit/d27da5ddf7d6acb8da8c4f7bdee5a05df139329e) - **chore:** update package meta data [(#1926)](https://github.com/stdlib-js/stdlib/pull/1926) _(by stdlib-bot, Athan Reines)_
--   [`f9cbee7`](https://github.com/stdlib-js/stdlib/commit/f9cbee7fb312af11b695ff8829401acf81609813) - **feat:** add C implementation for `math/base/assert/is-nonpositive-finite` _(by Rutam, Pranav)_
+-   [`f9cbee7`](https://github.com/stdlib-js/stdlib/commit/f9cbee7fb312af11b695ff8829401acf81609813) - **feat:** add C implementation for `math/base/assert/is-nonpositive-finite` _(by Rutam Kathale, Pranav)_
 
 </details>
 
@@ -76,7 +77,7 @@ A total of 4 people contributed to this release. Thank you to the following cont
 -   Athan Reines
 -   Philipp Burckhardt
 -   Pranav Goswami
--   Rutam
+-   Rutam Kathale
 
 </section>
 
