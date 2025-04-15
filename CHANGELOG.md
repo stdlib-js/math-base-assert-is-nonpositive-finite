@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-04-14)
+## Unreleased (2025-04-15)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`2aadeb5`](https://github.com/stdlib-js/stdlib/commit/2aadeb5422491aeab1afd3424f54048911b9cb31) - **bench:** update random value generation [(#6686)](https://github.com/stdlib-js/stdlib/pull/6686) _(by Harsh)_
 -   [`32deb11`](https://github.com/stdlib-js/stdlib/commit/32deb11c6a2453748d8db9554b6bb3fdb73a077f) - **docs:** update related packages sections [(#3976)](https://github.com/stdlib-js/stdlib/pull/3976) _(by stdlib-bot)_
 -   [`5b4c5ca`](https://github.com/stdlib-js/stdlib/commit/5b4c5cadb3d2fed46829dbf32f217726658e46bb) - **bench:** resolve lint errors _(by Athan Reines)_
 -   [`2777e4b`](https://github.com/stdlib-js/stdlib/commit/2777e4be161869d09406e3b17947d24c64b47af2) - **bench:** resolve lint errors in benchmarks _(by Athan Reines)_
@@ -26,9 +27,10 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
+-   Harsh
 
 </section>
 
