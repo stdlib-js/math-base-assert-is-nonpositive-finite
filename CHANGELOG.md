@@ -2,6 +2,40 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2026-02-07)
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`1eee288`](https://github.com/stdlib-js/stdlib/commit/1eee288269d47dffe3b59766b0bb846089ad2b42) - **bench:** refactor to use string interpolation in `math/base/assert` [(#10133)](https://github.com/stdlib-js/stdlib/pull/10133) _(by Lokesh Ranjan)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Lokesh Ranjan
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.3.2">
 
 ## 0.3.2 (2026-02-05)
